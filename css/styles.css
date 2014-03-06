@@ -1,0 +1,295 @@
+.container
+{
+	/*--border-style:dashed;*/
+	text-align:center;
+}
+h1
+{
+	text-align:center;
+	font-family: "Lucida Sans";
+	font-size:40px;
+}
+
+.col-md-9
+{
+	margin-bottom:12px;
+}
+
+.col-md-3
+{
+	padding-top:20px;
+}
+a
+{
+	color:black;
+}
+
+.jumbotorn
+{
+	padding-top:40px;
+	padding-left:125px;
+	padding-bottom:90px;
+	text-align:left;
+}
+
+.jumbotorn h1
+{
+	padding-top:40px;
+	padding-bottom:10px;
+	text-align:left;
+	color:#445569;
+}
+
+.jumbotorn h5,h1,h3
+{
+	font-family: "Lucida Sans";
+}
+
+.jumbotorn h3,h5
+{
+	font-weight:lighter;
+	color:#445569;
+}
+
+.hiwContainer1 h4,p
+{
+	font-family: "Lucida Sans";
+	font-weight:lighter;
+	color:#445569;
+}
+
+.hiwContainer2 h4,p
+{
+	font-family: "Lucida Sans";
+	font-weight:lighter;
+	color:#445569;
+}
+
+.hiwContainer3 h4,p
+{
+	font-family: "Lucida Sans";
+	font-weight:lighter;
+	color:#445569;
+}
+
+.garContainer h4
+{
+	font-family: "Lucida Sans";
+	font-weight:lighter;
+	color:#445569;
+}
+
+.garContainer h5
+{
+	color:#8F9194;
+	font-family: "Lucida Sans";	
+}
+
+
+.footMenu a
+{
+	font-family: "Lucida Sans";
+	font-weight:lighter;
+}
+
+.footContainerSN h6
+{
+	font-family: "Lucida Sans";
+	font-weight:lighter;
+}
+
+h5
+{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+img
+{
+	padding-bottom:50px;
+}
+
+.btn.btn-info
+{
+	background-color:deepskyblue;
+	border:0;
+}
+
+.footMenu
+{
+	background-color:deepskyblue;
+	text-align:left;
+	padding-left:125px;
+}
+
+.footMenu a
+{
+	text-align:left;
+	width:150px;
+	height:30px;
+}
+
+.garImgContainer img
+{
+	padding-left:450px;
+}
+
+.footContainer
+{
+	background-color:#4A5E85;
+}
+
+.hiwContainer1 p
+{
+	text-align:left;
+}
+
+.hiwContainer1
+{
+	text-align:left;
+	padding-left:125px;
+}
+
+.hiwContainer1 img
+{
+	padding-left:40px;
+}
+
+.hiwContainer2 img
+{
+	padding-left:195px;
+}
+
+.hiwContainer2 p
+{
+	padding-right:150px;
+	text-align:left;
+	padding-left:105px;
+}
+
+.hiwContainer2 h4
+{
+	padding-left:105px;
+	text-align:left;
+}
+
+.hiwContainer3 p
+{
+	padding-left:125px;
+	text-align:left;		
+}
+
+.hiwContainer3 h4
+{
+	padding-left:125px;
+	text-align:left;		
+}
+
+.hiwContainer3 img
+{
+	padding-left:145px;
+}
+
+.garContainer
+{
+	background-color:#F2F2F5;
+}
+
+.mainAdv
+{
+	background-color:#F2F2F5;
+}
+
+.footContainer
+{
+	text-align:center;
+}
+
+.footContainer img
+{
+	padding-left:490px;
+	padding-bottom:10px;
+}
+
+
+hr
+{
+	border-top-width:0px;
+	border-bottom-width:2px;
+	border-style:dotted;
+	border-color:silver;
+	width:880px;
+}
+
+.logoPic img
+{
+	padding-left:125px;
+	padding-top:35px;
+}
+
+.menuTab
+{
+	padding-top:30px;
+	padding-right:115px;
+}
+
+.footContainerSN
+{
+	background-color:#4A5E85;
+	color:white;
+}
+
+.footContainerSN i
+{
+	text-align:left;
+	width:75px;
+	height:30px;
+	padding-left:30px;
+}
+
+.footContainerSN a
+{
+	color:white;
+}
+
+.btn-info
+{
+	border-radius:1px;
+	width:100px;
+	height:50px;
+}
+
+.mainAdv button
+{
+	border-radius:1px;
+	width:170px;
+	height:50px;
+	color:white;
+	background-color:#445569;
+	font-size:17px;
+	font-weight:lighter;
+}
+
+.menuTab button
+{
+	border-radius:1px;
+	width:110px;
+	height:50px;
+	color:white;
+	border:0px;
+	margin-bottom:5px;
+	font-family: "Lucida Sans";
+}
+
+.menuTab a
+{
+	font-family: "Lucida Sans";
+	color:#445569;
+}
+
+.italHeader i
+{
+	font-family:'Lobster Two', cursive;
+	color:#445569;
+	font-size:35px;
+}

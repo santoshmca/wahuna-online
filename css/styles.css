@@ -24,7 +24,7 @@ a
 	color:black;
 }
 
-.jumbotorn
+.mainAdv .col-md-7
 {
 	padding-top:40px;
 	padding-left:125px;
@@ -32,7 +32,7 @@ a
 	text-align:left;
 }
 
-.jumbotorn h1
+.mainAdv .col-md-7 h1
 {
 	padding-top:40px;
 	padding-bottom:10px;
@@ -40,12 +40,12 @@ a
 	color:#445569;
 }
 
-.jumbotorn h5,h1,h3
+.mainAdv .col-md-7 h5,h1,h3
 {
 	font-family: "Lucida Sans";
 }
 
-.jumbotorn h3,h5
+.mainAdv .col-md-7 h3,h5
 {
 	font-weight:lighter;
 	color:#445569;
@@ -84,7 +84,6 @@ a
 	color:#8F9194;
 	font-family: "Lucida Sans";	
 }
-
 
 .footMenu a
 {
@@ -198,6 +197,7 @@ img
 .mainAdv
 {
 	background-color:#F2F2F5;
+	height:498px;
 }
 
 .footContainer
@@ -210,7 +210,6 @@ img
 	padding-left:490px;
 	padding-bottom:10px;
 }
-
 
 hr
 {
